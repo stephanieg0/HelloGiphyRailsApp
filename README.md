@@ -1,2 +1,2 @@
 # HelloGiphyRailsApp
-Simple rails app
+Simple rails 5 app with the giphy API https://developers.giphy.com/ 😀 🐱 ✨
